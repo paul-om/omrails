@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node node.js"
   },
   "name": "omrails",
   "private": true,
