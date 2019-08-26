@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node node.js"
+    "start": "node app/javascript/packs/application.js"
   },
   "name": "omrails",
   "private": true,
